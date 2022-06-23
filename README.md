@@ -3,8 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This app allows users to search for movies by name via OMDb API. https://www.omdbapi.com/
+
 I made this app following the tutorial of Javscript Mastery on Youtube. https://www.youtube.com/watch?v=b9eMGE7QtTk&
+
 The only modification I made was to allow users to search by pressing enter as well as clicking the search icon.
+
 
 ## Available Scripts
 
